@@ -116,10 +116,12 @@ This project is created for educational and showcase purposes. Feel free to use 
 
 ## Credits
 
-- Design inspired by the official Incredible India website
-- Icons and emojis used for visual representation
-- Content focused on Udupi and Mangalore's rich heritage
+- Design inspired by the official Incredible India website  
+- Icons and emojis used for visual representation  
+- Content focused on Udupi and Mangalore's rich heritage  
+- Live demo deployed at **[karavali.netlify.app](https://karavali.netlify.app)**  
 
 ---
 
-**Experience India: Udupi & Mangalore** - Discover the beauty of coastal Karnataka! 🇮🇳
+**Experience India: Udupi & Mangalore** — Discover the beauty of coastal Karnataka! 🇮🇳
+
